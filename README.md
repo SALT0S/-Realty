@@ -1,2 +1,2 @@
 # -Realty
-Pagina web de bienes raices, conocimientos en HTML y CSS
+Pagina web de bienes raíces, conocimientos en HTML y CSS
